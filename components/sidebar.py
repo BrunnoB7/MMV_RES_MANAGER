@@ -13,7 +13,7 @@ def show_sidebar():
 
             options=[
                 "Dashboard",
-                "Fluxo do Projeto",
+                # "Fluxo do Projeto",
                 "Tarefas",
                 "Cronograma",
                 "Documentos",
@@ -27,7 +27,7 @@ def show_sidebar():
 
             icons=[
                 "speedometer2",
-                "diagram-3",
+                # "diagram-3",
                 "clipboard-check",
                 "calendar3",
                 "folder",
